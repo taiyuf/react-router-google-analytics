@@ -1,6 +1,6 @@
 {
   "name": "react-router-google-analytics",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "google analytics for react router (ready for server side rendering).",
   "main": "index.js",
   "scripts": {

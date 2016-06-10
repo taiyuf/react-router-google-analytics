@@ -6,6 +6,14 @@ The react router implementation for Google Analytics, server side rendring ready
 
 ## How to use
 
+### install
+
+```
+npm install react-router-google-analytics --save
+```
+
+### setup
+
 in your universal.js.
 
 ```

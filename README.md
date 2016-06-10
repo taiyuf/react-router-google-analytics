@@ -1,3 +1,5 @@
+[![NPM Version](https://img.shields.io/npm/v/react-router-google-analytics.svg?style=flat)](https://www.npmjs.org/package/react-router-google-analytics)
+
 # react-router-google-analytics
 
 The react router implementation for Google Analytics, server side rendring ready.

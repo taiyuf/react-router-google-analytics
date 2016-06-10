@@ -4,7 +4,6 @@
   "description": "google analytics for react router (ready for server side rendering).",
   "main": "index.js",
   "scripts": {
-    "postinstall": "npm run build",
     "build": "babel -o index.js Ga.js",
     "test": "mocha"
   },

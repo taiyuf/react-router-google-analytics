@@ -1,4 +1,5 @@
 [![NPM Version](https://img.shields.io/npm/v/react-router-google-analytics.svg?style=flat)](https://www.npmjs.org/package/react-router-google-analytics)
+[![Build Status](https://travis-ci.org/taiyuf/react-router-google-analytics.svg?branch=master)](https://travis-ci.org/taiyuf/react-router-google-analytics)
 
 # react-router-google-analytics
 

@@ -1,0 +1,29 @@
+{
+  "name": "react-router-google-analytics",
+  "version": "1.0.0",
+  "description": "google analytics for react router (ready for server side rendering).",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm run build",
+    "build": "babel -o index.js Ga.js",
+    "test": "mocha"
+  },
+  "keywords": [
+    "react",
+    "react-router",
+    "google",
+    "analytics"
+  ],
+  "author": "Taiyu Fujii",
+  "license": "MIT",
+  "babel": {
+    "presets": [
+      "es2015"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}
